@@ -157,6 +157,7 @@ export default function Home() {
               <ul>
                 <li>Python</li>
                 <li>Java</li>
+                <li>Node.js</li>
               </ul>
               <h3>Testing</h3>
               <ul>
