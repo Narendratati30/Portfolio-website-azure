@@ -85,7 +85,7 @@ export default function Home() {
           <div className="hero-blue">
             <div>
               <h1>
-                <small> Hi I'm</small> Narendra Tati
+                <small> Hi I am</small> Narendra Tati
               </h1>
               <p>
                 web developer and project engineer currently pursuing a Master
@@ -263,15 +263,15 @@ export default function Home() {
             <div className="chat-info">
               <h3>Azure AI Chatbot</h3>
               <p>
-                I've put together a chatbot here which knows all my skills,work
+                I have put together a chatbot here which knows all my skills,work
                 experience and has a copy of my CV/Resume. You can use it to ask
                 questions about me to get a better idea of who I am and what
-                I've done.
+                I have done.
               </p>
               <p>
                 you can also download my resume here if you want to take a look
-                at it. I'm currently looking for new oppurtunities so if you
-                have a project you think I'd be a good fit for, please get in
+                at it. I am currently looking for new oppurtunities so if you
+                have a project you think I would be a good fit for, please get in
                 touch!
               </p>
               <a href="./Narendra_Resume.pdf" className="button black">
